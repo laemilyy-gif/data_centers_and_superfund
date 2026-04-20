@@ -1,5 +1,7 @@
 # Data Centers and Superfund Sites
 
+#
+
 # Data
 
 The data draws on the following primary sources:
@@ -17,4 +19,6 @@ FracTracker data is used as a supplemental layer to map industrial
 infrastructure and chemical-adjacent activity in proximity to both data center
 locations and Superfund sites.
 
-4.
+# Research Questions
+1. Have there been more proposed data center projects located on or near Superfund sites compared to non-Superfund sites?
+2. How do these patterns vary across regions of the United States? 
